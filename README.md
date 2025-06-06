@@ -1,6 +1,6 @@
 # Aprendendo Git
 
-Tudo sobre o básico de Git e GitHub
+Um pouco sobre o básico de Git e GitHub
 
 ## Tabela de comandos e suas funções
 |Comando|Função|
