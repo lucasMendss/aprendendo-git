@@ -15,3 +15,9 @@ Um pouco sobre o básico de Git e GitHub
 |```git restore [nome-do-arquivo]```|Desfaz as últimas alterações feitas|
 |```git push```|Envia as alterações do repo. local ao remoto|
 |```git pull```|Envia as alterações do repo. remoto ao local|
+
+## Mais
+
+### Documentações 
+- [Git](https://git-scm.com/doc)
+- [GitHub](https://docs.github.com/pt)
