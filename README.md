@@ -10,6 +10,7 @@ Um pouco sobre o básico de Git e GitHub
 | ```git clone [URL do repo.]```| Clona um repo. remoto no diretório local|
 |```git remote add origin```|Vincula um repo. local a um repo. remoto|
 |```git status```|Mostra se há adds, commits ou pushs a serem feitos|
+|```git log```|Lista informações sobre últimos commits ordenadamente (data, hash, mensagem...)|
 |```git add [nome-do-arquivo ou --all]```|Prepara um arquivo e/ou suas alterações para serem commitados|
 |```git commit -m "mensagem"```|Registra as alterações e cria uma nova versão do repositório|
 |```git restore [nome-do-arquivo]```|Desfaz as últimas alterações feitas|
