@@ -1,0 +1,1 @@
+fui primeiramente criado em uma branch secundária e posteiormente adicionado à branch principal por meio do merge
