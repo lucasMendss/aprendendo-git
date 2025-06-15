@@ -16,6 +16,7 @@ Um pouco sobre o básico de Git e GitHub
 |```git commit -m "mensagem"```|Registra as alterações e cria uma nova versão do repositório|
 |```git restore [nome-do-arquivo]```|Desfaz as últimas alterações feitas|
 |```git push```|Envia as alterações do repo. local ao remoto|
+|```git fetch```|Atualiza a lista de branches locais (traz do remoto)|
 |```git pull```|Envia as alterações do repo. remoto ao local|
 |```git checkout -b [nome da nova branch]```|Cria uma nova branch|
 |```git checkout [nome da branch]```|Troca para a branch escolhida|
